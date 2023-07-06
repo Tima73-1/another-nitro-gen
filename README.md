@@ -1,0 +1,2 @@
+Simple Python nitro codes generator.
+This program was created for educational purposes only. If you use it, you will be banned due to Discord TOS, and you will also steal money from those who bought the code.
